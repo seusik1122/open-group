@@ -6,6 +6,7 @@
 ### 목차
 1. 개요
 2. 팀원 소개
+3. gitBash 참고자료
 
 ## 1. 개요
 오픈소스 소프트웨어의 소개 및 역사를 작성하며 팀 과제를 통해 팀워크를 향상하기 위한 페이지이다.
@@ -25,3 +26,5 @@
 ## 3. GitBash 참고자료
 
 ### 교수님 Github : https://github.com/ai7dnn/2024-OSS
+
+### Git 명령어 모음 : https://gorokke.tistory.com/22
