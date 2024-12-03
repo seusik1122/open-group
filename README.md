@@ -23,3 +23,5 @@
 </div>
 
 ## 3. GitBash 참고자료
+
+### 교수님 Github : https://github.com/ai7dnn/2024-OSS
