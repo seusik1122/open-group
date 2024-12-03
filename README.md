@@ -17,7 +17,7 @@
 
 | 이름     | 역할               | 학번              | 개인저장소              | 
 |:--------:| :-------------------:| :-------------------:| :-------------------:|
-| 김지훈   | OSS 저작권          | 20241504 |  https://github.com/lyj098765/oss
+| 김지훈   | OSS 저작권          | 20241504 |  https://github.com/seusik1122/oss
 | 이영주   | 대표적 OSS 소개      | 20241489 | https://github.com/lyj098765/oss
 | 장세민   | OSS 개요, OSS 역사 |  20242524   |            https://github.com/semin12350/OSS_homework-
 
